@@ -32,17 +32,37 @@ Sau khi cài đặt, một tab **GIÁO TRÌNH** sẽ xuất hiện trực tiếp
 
 # 📥 Tải xuống
 
-Khuyến nghị sử dụng bản **Installer (.exe)**.
+## ⭐ Bản khuyến nghị — EXE
 
-| Phiên bản | Loại | Cài đặt |
-|---|---|---|
-| `GiaoTrinhWord-Setup-v1.0.0.exe` | ⭐ Khuyến nghị | Download → mở file → Install |
-| `GiaoTrinhWord-Publish-v1.0.0.zip` | Cài đặt thủ công | Download → giải nén → chạy `setup.exe` |
+[⬇️ Tải GiaoTrinhWord-Setup.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Setup.exe)
 
-👉 Xem phiên bản mới nhất tại **GitHub Releases**.
+**Cách cài đặt:**
+
+1. Tải file `GiaoTrinhWord-Setup.exe`.
+2. Double-click file vừa tải.
+3. Chọn **Install**.
+4. Mở Microsoft Word.
+5. Chọn **GIÁO TRÌNH → Mở Giáo Trình**.
 
 ---
 
+## 📦 Bản ZIP
+
+[⬇️ Tải GiaoTrinhWord-Publish.zip](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Publish.zip)
+
+**Cách cài đặt:**
+
+1. Tải file ZIP.
+2. Giải nén.
+3. Mở thư mục vừa giải nén.
+4. Chạy `setup.exe`.
+5. Hoàn tất cài đặt và mở Microsoft Word.
+
+---
+
+## 🏷️ Tất cả phiên bản
+
+[📋 Xem GitHub Releases](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases)
 # 🚀 Cài đặt bằng EXE
 
 ### Cách khuyến nghị
