@@ -34,7 +34,7 @@ Sau khi cài đặt, một tab **GIÁO TRÌNH** sẽ xuất hiện trực tiếp
 
 ## ⭐ Bản khuyến nghị — EXE
 
-[⬇️ Tải GiaoTrinhWord-Setup.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Setup.exe)
+[[⬇️ Tải GiaoTrinhWord-Setup.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Setup.exe)](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Setup-v1.0.0.exe)
 
 **Cách cài đặt:**
 
