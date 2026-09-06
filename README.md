@@ -33,11 +33,10 @@ Sau khi cài đặt, một tab **GIÁO TRÌNH** sẽ xuất hiện trực tiếp
 # 📥 Tải xuống
 ## ⭐ Bản khuyến nghị — EXE
 
-[⬇️ Tải GiaoTrinhWord-Setup-v1.0.0.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/download/v1.0.0/GiaoTrinhWord-Setup-v1.0.0.exe)
+[⬇️ Tải setup.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/setup.exe)
 
 ## 📦 Bản ZIP
-
-[⬇️ Tải GiaoTrinhWord-Publish-v1.0.0.zip](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/download/v1.0.0/GiaoTrinhWord-Publish-v1.0.0.zip)
+[📦 Tải Publish.rar](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/Publish.zip)
 ---
 
 ## 🏷️ Tất cả phiên bản
