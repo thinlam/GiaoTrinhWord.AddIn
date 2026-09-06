@@ -30,18 +30,43 @@ Sau khi cài đặt, một tab **GIÁO TRÌNH** sẽ xuất hiện trực tiếp
 
 ---
 
-# 📥 Tải xuống
-## ⭐ Bản khuyến nghị — EXE
+## Tải xuống
 
-[⬇️ Tải setup.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/setup.exe)
+> Phiên bản mới nhất: **v1.0.0**  
+> Dành cho **Microsoft Word Desktop trên Windows 10/11**
 
-## 📦 Bản ZIP
-[📦 Tải Publish.rar](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/Publish.zip)
+| Gói cài đặt | Mô tả | Phù hợp |
+|---|---|---|
+| **GiaoTrinhWord-Setup.exe** | Bộ cài tự động. Tải về và chạy để cài đặt. | ⭐ Khuyến nghị |
+| **GiaoTrinhWord-Publish.zip** | Bộ cài đầy đủ dạng nén. Cần giải nén trước khi chạy `setup.exe`. | Cài thủ công |
+
+### GiaoTrinhWord Setup
+
+**Cách nhanh nhất để cài đặt.**
+
+[**⬇ Download GiaoTrinhWord-Setup.exe**](../../releases/latest/download/GiaoTrinhWord-Setup.exe)
+
+Sau khi tải:
+
+`Download` → `Mở file` → `Install` → `Microsoft Word`
+
 ---
 
-## 🏷️ Tất cả phiên bản
+### Gói cài đặt thủ công
 
-[📋 Xem GitHub Releases](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases)
+[**⬇ Download GiaoTrinhWord-Publish.zip**](../../releases/latest/download/GiaoTrinhWord-Publish.zip)
+
+Sau khi tải:
+
+`Download` → `Giải nén` → `setup.exe` → `Install`
+
+---
+
+### Các phiên bản
+
+[**Xem tất cả phiên bản phát hành →**](../../releases)
+
+> **Lưu ý:** Chỉ tải bộ cài từ trang GitHub Releases chính thức của dự án.
 # 🚀 Cài đặt bằng EXE
 
 ### Cách khuyến nghị
