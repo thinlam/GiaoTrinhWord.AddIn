@@ -31,33 +31,13 @@ Sau khi cài đặt, một tab **GIÁO TRÌNH** sẽ xuất hiện trực tiếp
 ---
 
 # 📥 Tải xuống
-
 ## ⭐ Bản khuyến nghị — EXE
 
-[⬇️ Tải GiaoTrinhWord-Setup-v1.0.0.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Setup-v1.0.0.exe)
-
-**Cách cài đặt:**
-
-1. Tải file `GiaoTrinhWord-Setup.exe`.
-2. Double-click file vừa tải.
-3. Chọn **Install**.
-4. Mở Microsoft Word.
-5. Chọn **GIÁO TRÌNH → Mở Giáo Trình**.
-
----
+[⬇️ Tải GiaoTrinhWord-Setup-v1.0.0.exe](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/download/v1.0.0/GiaoTrinhWord-Setup-v1.0.0.exe)
 
 ## 📦 Bản ZIP
 
-[⬇️ Tải GiaoTrinhWord-Publish.zip](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/latest/download/GiaoTrinhWord-Publish.zip)
-
-**Cách cài đặt:**
-
-1. Tải file ZIP.
-2. Giải nén.
-3. Mở thư mục vừa giải nén.
-4. Chạy `setup.exe`.
-5. Hoàn tất cài đặt và mở Microsoft Word.
-
+[⬇️ Tải GiaoTrinhWord-Publish-v1.0.0.zip](https://github.com/thinlam/GiaoTrinhWord.AddIn/releases/download/v1.0.0/GiaoTrinhWord-Publish-v1.0.0.zip)
 ---
 
 ## 🏷️ Tất cả phiên bản
