@@ -138,6 +138,7 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
@@ -238,6 +239,7 @@
     <EmbeddedResource Include="TaskPaneControl.resx">
       <DependentUpon>TaskPaneControl.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="GiaoTrinhWord.AddIn_1_TemporaryKey.pfx" />
     <None Include="GiaoTrinhWord.AddIn_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -274,6 +276,15 @@
   <ItemGroup>
     <None Include="Resources\icon-80.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a46d62b6-24d9-4100-a3fa-7fcf9b9251b7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-80x80-magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-80x80-magnifier-transparent.png" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -282,10 +293,10 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>GiaoTrinhWord.AddIn_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>GiaoTrinhWord.AddIn_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>94F0C5339B7B6B80EBCC8C59D82767379D6799A7</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>C58E5A3A246585F51F1C5A2D507C3E33EF86386E</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
@@ -300,7 +311,7 @@
       <FlavorProperties GUID="{BAA0C2D2-18E2-41B9-852F-F413020CAA33}">
         <ProjectProperties HostName="Word" HostPackage="{29A7B9D7-A7F1-4328-8EF0-6B2D1A56B2C1}" OfficeVersion="15.0" VstxVersion="4.0" ApplicationType="Word" Language="cs" TemplatesPath="" DebugInfoExeName="#Software\Microsoft\Office\16.0\Word\InstallRoot\Path#WINWORD.EXE" DebugInfoCommandLine="/x" AddItemTemplatesGuid="{51063C3A-E220-4D12-8922-BDA915ACD783}" />
         <Host Name="Word" GeneratedCodeNamespace="GiaoTrinhWord.AddIn" PublishedHash="69C324AB27932AA2FBF2B7EA72250886FF164DE6" IconIndex="0">
-          <HostItem Name="ThisAddIn" Code="ThisAddIn.cs" CanonicalName="AddIn" CanActivate="false" IconIndex="1" Blueprint="ThisAddIn.Designer.xml" GeneratedCode="ThisAddIn.Designer.cs" PublishedHash="64B9D249160CD6005F8AE5AE938F988C4901CFE0" />
+          <HostItem Name="ThisAddIn" Code="ThisAddIn.cs" CanonicalName="AddIn" PublishedHash="64B9D249160CD6005F8AE5AE938F988C4901CFE0" CanActivate="false" IconIndex="1" Blueprint="ThisAddIn.Designer.xml" GeneratedCode="ThisAddIn.Designer.cs" />
         </Host>
       </FlavorProperties>
     </VisualStudio>

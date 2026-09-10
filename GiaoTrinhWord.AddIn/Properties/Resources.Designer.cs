@@ -63,9 +63,39 @@ namespace GiaoTrinhWord.AddIn.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap a46d62b6_24d9_4100_a3fa_7fcf9b9251b7 {
+            get {
+                object obj = ResourceManager.GetObject("a46d62b6-24d9-4100-a3fa-7fcf9b9251b7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icon_80 {
             get {
                 object obj = ResourceManager.GetObject("icon-80", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icon_80x80_magnifier {
+            get {
+                object obj = ResourceManager.GetObject("icon-80x80-magnifier", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icon_80x80_magnifier_transparent {
+            get {
+                object obj = ResourceManager.GetObject("icon-80x80-magnifier-transparent", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -34,6 +34,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            Microsoft.Office.Tools.Ribbon.RibbonDialogLauncher ribbonDialogLauncherImpl1 = this.Factory.CreateRibbonDialogLauncher();
             this.tabGiaoTrinh = this.Factory.CreateRibbonTab();
             this.groupGiaoTrinh = this.Factory.CreateRibbonGroup();
             this.btnMoGiaoTrinh = this.Factory.CreateRibbonButton();
@@ -49,6 +50,7 @@
             // 
             // groupGiaoTrinh
             // 
+            this.groupGiaoTrinh.DialogLauncher = ribbonDialogLauncherImpl1;
             this.groupGiaoTrinh.Items.Add(this.btnMoGiaoTrinh);
             this.groupGiaoTrinh.Label = "Giáo Trình Word";
             this.groupGiaoTrinh.Name = "groupGiaoTrinh";
